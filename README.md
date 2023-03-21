@@ -1,1 +1,1 @@
-# flamingo.github.io
+Flamingo is a educational website which embraces extra features for launching the test both by teacher and student at a particular rate,online courses (powered by nptel,udemy and many more ),workshops,hackerthon followed by pomodoro technique which includes co-cirricular activity. 
